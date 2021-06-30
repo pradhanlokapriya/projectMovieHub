@@ -8,8 +8,10 @@ import Series from "./Pages/Series/Series";
 import Movies from "./Pages/Movies/Movies";
 import Search from "./Pages/Search/Search";
 
+
+
 function App() {
-  return (
+  return(
     <BrowserRouter>
        <Header/>
        <div className="app">
