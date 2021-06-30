@@ -32,8 +32,6 @@ useEffect(() => {
  
 },[value,history]);
 
-
-
   return (
     <BottomNavigation
       value={value}

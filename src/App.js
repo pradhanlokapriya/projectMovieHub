@@ -1,10 +1,8 @@
 import {BrowserRouter,Route,Switch} from "react-router-dom";
 import { Container } from '@material-ui/core';
-
 import Header from './components/Header/Header';
 import SimpleBottomNavigation from './components/MainNav'
 import './App.css';
-
 import Trending from './Pages/Trending/Trending';
 import Series from "./Pages/Series/Series";
 import Movies from "./Pages/Movies/Movies";
